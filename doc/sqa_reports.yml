@@ -1,0 +1,6 @@
+Applications:
+    goat:
+        app_types:
+            - GoatApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
